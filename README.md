@@ -1,4 +1,4 @@
-Cubit-s-Game
+Cubit's-Game
 ============
 
 a simple game
